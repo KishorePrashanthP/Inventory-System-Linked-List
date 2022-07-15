@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643271898 source:c:\c programs\inventorysystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+
